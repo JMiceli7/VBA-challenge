@@ -11,6 +11,6 @@
 
 # 2. A .Bas file that is an export of the script from the VBA window, can be uploaded to fresh excel file to have the script added that way as well. 
 
-# 3. A folder of screenshots from the originally run script demonstrating results prior to refreshing the document.
+# 3. A folder of screenshots from the originally run script demonstrating results prior to refreshing the document (thank you Dwight for the refresh sub!).
 
 # Thank you and have a good day!
